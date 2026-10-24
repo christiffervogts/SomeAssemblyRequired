@@ -1,0 +1,5 @@
+*.swp
+.xdp-*
+SARlicer/SARlicerMain
+SARlicer/stl2ascii
+*.o
